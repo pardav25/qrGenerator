@@ -19,7 +19,7 @@ const defualtUrl = "https://davideparadiso.ch";
 let colorLight = "#fff",
     colorDark = "#000",
     text = defualtUrl,
-    size = 300;
+    size = 400;
 
 function handleDarkColor(e) {
     colorDark = e.target.value;
